@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星にでも願ってろ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2025-12-15T09:37:19.826658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星にでも願ってろ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_星にでも願ってろ_クリープハイプ.txt"
+    }
+  ]
+}
